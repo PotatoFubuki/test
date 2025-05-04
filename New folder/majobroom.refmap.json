@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/innky/majobroom/mixin/PlayerMixin": {
+      "getStandingEyeHeight": "Lnet/minecraft/world/entity/player/Player;m_6431_(Lnet/minecraft/world/entity/Pose;Lnet/minecraft/world/entity/EntityDimensions;)F"
+    },
+    "com/innky/majobroom/mixin/MinecraftMixin": {
+      "createSearchTrees": "Lnet/minecraft/client/Minecraft;m_91271_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/innky/majobroom/mixin/PlayerMixin": {
+        "getStandingEyeHeight": "Lnet/minecraft/world/entity/player/Player;m_6431_(Lnet/minecraft/world/entity/Pose;Lnet/minecraft/world/entity/EntityDimensions;)F"
+      },
+      "com/innky/majobroom/mixin/MinecraftMixin": {
+        "createSearchTrees": "Lnet/minecraft/client/Minecraft;m_91271_()V"
+      }
+    }
+  }
+}
